@@ -1,0 +1,55 @@
+/* GENERAL */
+* {
+    background-color: #c6e8e9;
+    padding: 10px;
+}
+
+/* HEADER */
+.encabezado {
+    display: grid;
+    justify-items: center;
+    font-family: system-ui;
+}
+
+/* Título */
+.encabezado h1{
+    margin-bottom: 0;
+}
+
+/* Subtítulo*/
+.encabezado h3{
+    margin-top: 0;
+}
+
+/* MAIN */
+
+
+/* FOOTER */
+/* Contacto */
+.contacto {
+    /* Display */
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.divContacto {
+    /* Display */
+    display: grid;
+    justify-items: center;
+}
+
+.divContacto img{
+    /* Logos */
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.divContacto a{
+    margin: 0;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
