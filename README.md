@@ -11,8 +11,7 @@
 - ✨ Recursos educativos para artistas.  
 
 **Evolución**:  
-✅ Proyecto iniciado en 2024  
-🔜 Rediseño en proceso con Figma  
+✅ Proyecto iniciado en 2025
 
 ---
 
@@ -30,14 +29,11 @@
 
 ## 🎨 **Características**  
 
-### ✔️ Actualmente implementado  
-- Catálogo básico de artesanías  
-- Galería visual de proyectos  
-
 ### 🚧 En progreso (2024)  
-- Rediseño completo con Figma  
-- Optimización de código  
-- Sección para profesores  
+- Catálogo básico de artesanías  
+- Galería visual de proyectos 
+- Diseño completo con Figma  
+- Optimización de código    
 
 ---
 
