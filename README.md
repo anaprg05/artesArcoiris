@@ -29,7 +29,7 @@
 
 ## 🎨 **Características**  
 
-### 🚧 En progreso (2024)  
+### 🚧 En progreso (2025)  
 - Catálogo básico de artesanías  
 - Galería visual de proyectos 
 - Diseño completo con Figma  
