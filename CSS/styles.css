@@ -1,3 +1,7 @@
+/* FUENTES */
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Imperial+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* GENERAL */
 * {
     background-color: #c6e8e9;
@@ -5,20 +9,41 @@
 }
 
 /* HEADER */
+header {
+    background-image: url('../img/header.png');
+    background-size: cover;    
+    background-position: center;
+    height: 300px;   
+}
+
 .encabezado {
-    display: grid;
-    justify-items: center;
-    font-family: system-ui;
+   /* display: grid;
+    justify-items: end;*/
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    height: 80%;
+    background: fixed;
 }
 
 /* Título */
+
 .encabezado h1{
+    font-family: Montserrat;
     margin-bottom: 0;
+    background: fixed;
+    font-size: 55px;
 }
 
 /* Subtítulo*/
 .encabezado h3{
+    font-family: Imperial Script;
     margin-top: 0;
+    background: fixed;
+    font-size: 60px;
 }
 
 /* MAIN */
