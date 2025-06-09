@@ -4,8 +4,17 @@
 
 /* GENERAL */
 * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
     background-color: #c6e8e9;
-    padding: 10px;
+}
+
+main {
+    padding: 30px 30px;
 }
 
 /* HEADER */
@@ -13,12 +22,11 @@ header {
     background-image: url('../img/header.png');
     background-size: cover;    
     background-position: center;
+    background-repeat: no-repeat;
     height: 300px;   
 }
 
 .encabezado {
-   /* display: grid;
-    justify-items: end;*/
     color: #fff;
     display: flex;
     flex-direction: column;
@@ -27,10 +35,10 @@ header {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     height: 80%;
     background: fixed;
+    padding-right: 20px;
 }
 
 /* Título */
-
 .encabezado h1{
     font-family: Montserrat;
     margin-bottom: 0;
@@ -41,9 +49,16 @@ header {
 /* Subtítulo*/
 .encabezado h3{
     font-family: Imperial Script;
-    margin-top: 0;
+    margin: 0;
     background: fixed;
     font-size: 60px;
+}
+
+.encabezado img {
+    width: auto;
+    height: 70px;
+    padding: 0;
+    border-radius: 5%;
 }
 
 /* MAIN */
