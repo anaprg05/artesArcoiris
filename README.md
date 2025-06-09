@@ -52,4 +52,4 @@
 
 [![GitHub - anaprg05](https://img.shields.io/badge/GitHub-anaprg05-c6e8e9?logo=github)](https://github.com/anaprg05)
 
-*Última actualización: Mayo 2025*
+*Última actualización: Junio 2025*
