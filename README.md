@@ -19,7 +19,7 @@
 
 | **Frontend**       | **Diseño**       |  
 |--------------------|------------------|  
-| HTML5              | Figma (UI/UX)    |  
+| HTML5              |                  |  
 | CSS3               | Google Fonts     |  
 | JavaScript         |                  |  
 
