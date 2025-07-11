@@ -2,6 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@400;700&family=Imperial+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
+/* COLORES
+Mimi Pink: #FAD2E1
+Champagne Pink: #EDDCD2
+Linen: #FFF1E6
+Misty Rose: #FDE2E4
+Light Cyan: #C5DEDD
+Light Cyan 2: #D1E5E4
+Azure (Web): #DAEAE9
+Azure (Web) 2: #E1EEED
+Azure (Web) 3: #E7F1F1
+*/
+
 /* GENERAL */
 * {
     box-sizing: border-box;
